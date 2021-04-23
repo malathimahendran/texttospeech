@@ -1,5 +1,7 @@
 {
   "name": "texttospeech",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
